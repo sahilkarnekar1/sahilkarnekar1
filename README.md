@@ -68,5 +68,12 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a> 
+<a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_symbol_green_2.2e16d0ba.fill-1440x810.png" alt="oracle" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" alt="oracle" width="40" height="40"/> 
+  </a> 
+  
 </p>
 
