@@ -9,8 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilkarnekar1" alt="sahilkarnekar1" /></a> </p>
 
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sahilkarnekar1&count_private=true&theme=tokyonight&showicons=true)]() <br /> -->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sahilkarnekar1&count_private=true&theme=tokyonight&showicons=true)]() <br /> 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkarnekar1&langs_count=5&theme=tokyonight)]() <br />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
