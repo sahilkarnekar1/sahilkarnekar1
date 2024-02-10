@@ -5,7 +5,7 @@
 👯 I’m looking to collaborate with other content creators<br />
 🎯 2023 Goals: Contribute more to open source projects<br />
 ⚡ Fun fact: I love Cricket ✏️<br />
-📫 How to reach me **sahilkarnekar1@gmail.com**
+📫 How to reach me **sahilkarnekar.sit.it@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilkarnekar1" alt="sahilkarnekar1" /></a> </p>
 
